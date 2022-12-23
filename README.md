@@ -1,1 +1,1 @@
-https://github.com/samovendyuk/rsschool-cv/tree/gh-pages
+https://samovendyuk.github.io/rsschool-cv/cv
